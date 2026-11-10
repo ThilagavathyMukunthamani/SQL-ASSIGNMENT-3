@@ -78,6 +78,6 @@ Catalog Inefficiency: Advance Excel recorded 0 sales, representing underperformi
 
 📂 Project Structure
 
-├── elearning_analytics.sql               # Full SQL script (DDL, DML, Joins & Queries Q1-Q5)
-├── ELearning_Platform_Summary_Report.pdf # One-page PDF Executive Summary Report
-└── README.md                             # Project documentation
+ elearning_analytics.sql               # Full SQL script (DDL, DML, Joins & Queries Q1-Q5)
+ ELearning_Platform_Summary_Report.pdf # One-page PDF Executive Summary Report
+  README.md                             # Project documentation
